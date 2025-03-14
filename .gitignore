@@ -1,0 +1,29 @@
+# files that not need to be sent over to the server need to be added here
+
+#object files
+*.o
+*.ko
+*.obj
+*.elf
+
+#compiled source
+*.com
+*.class
+*.dll
+*.exe
+
+#packaging files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+#executables
+*.app
+*.bin
+*.out
+*.run
