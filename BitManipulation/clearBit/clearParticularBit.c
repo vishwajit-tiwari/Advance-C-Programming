@@ -1,6 +1,9 @@
 /**
  * @file clearParticularBit.c
  * @author Vishwajit Kumar Tiwari
+ * @brief Implementation of a function to clear a particular bit in an unsigned integer.
+ * * @version 0.1
+ * @date 2023-10-01
  */
 
 #include "clearParticularBit.h"

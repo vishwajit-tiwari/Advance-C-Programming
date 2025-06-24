@@ -1,3 +1,10 @@
+ifdef ARCH
+# cross-compilation
+CC = arm-linux-gnueabihf-gcc -g 
+else
+# native compilation
+CC = gcc -g
+endif
 
 CC = gcc -g 
 
